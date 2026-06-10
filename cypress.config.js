@@ -1,4 +1,5 @@
 module.exports = {
+  projectId: "2top4i",
   e2e: {
     setupNodeEvents(on, config) {
       // implement node event listeners here
